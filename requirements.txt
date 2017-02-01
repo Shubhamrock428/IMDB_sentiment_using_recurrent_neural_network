@@ -1,0 +1,5 @@
+requirements-
+--tflearn
+
+Run in terminal as
+$ python sentanalysis_tflearn.py
